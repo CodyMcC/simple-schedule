@@ -1,6 +1,6 @@
 # schedule
 
-```
+```python
 from simple_schedule import Schedule
 
 s = Schedule()
