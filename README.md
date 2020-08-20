@@ -3,7 +3,7 @@
 ```python
 from simple_schedule import Schedule
 
-s = Schedule()
+s = Schedule(initial=False)
 
 
 while True:
